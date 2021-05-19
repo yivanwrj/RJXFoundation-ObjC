@@ -1,0 +1,16 @@
+PODS:
+  - RJXFoundation-ObjC (0.1.0)
+
+DEPENDENCIES:
+  - RJXFoundation-ObjC (from `../`)
+
+EXTERNAL SOURCES:
+  RJXFoundation-ObjC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RJXFoundation-ObjC: a59352b38b1a8f69e0ecd969dba9300bf2d6eee5
+
+PODFILE CHECKSUM: 7eafdda04c50cd99387dd2907ea015793db7a2f9
+
+COCOAPODS: 1.10.1

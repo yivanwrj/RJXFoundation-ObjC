@@ -1,0 +1,6 @@
+framework module RJXFoundation_ObjC {
+  umbrella header "RJXFoundation-ObjC-umbrella.h"
+
+  export *
+  module * { export * }
+}

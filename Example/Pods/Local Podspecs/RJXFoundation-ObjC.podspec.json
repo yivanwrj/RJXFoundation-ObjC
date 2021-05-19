@@ -1,0 +1,22 @@
+{
+  "name": "RJXFoundation-ObjC",
+  "version": "0.1.0",
+  "summary": "A short description of RJXFoundation-ObjC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Yivanwrj/RJXFoundation-ObjC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yivanwrj": "yivanwrj@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/Yivanwrj/RJXFoundation-ObjC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RJXFoundation-ObjC/Classes/**/*"
+}
